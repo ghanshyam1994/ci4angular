@@ -55,3 +55,11 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 # ci4angular
+
+
+- Angular js with codeigniter4
+- search with angular
+- insert with angular
+- update with angular
+- get all data with angular
+- show data by angular js
